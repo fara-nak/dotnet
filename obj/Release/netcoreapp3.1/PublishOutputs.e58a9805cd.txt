@@ -1,0 +1,7 @@
+/workspaces/dotnet/bin/Release/netcoreapp3.1/publish/dotnet
+/workspaces/dotnet/bin/Release/netcoreapp3.1/publish/appsettings.Development.json
+/workspaces/dotnet/bin/Release/netcoreapp3.1/publish/appsettings.json
+/workspaces/dotnet/bin/Release/netcoreapp3.1/publish/dotnet.dll
+/workspaces/dotnet/bin/Release/netcoreapp3.1/publish/dotnet.deps.json
+/workspaces/dotnet/bin/Release/netcoreapp3.1/publish/dotnet.runtimeconfig.json
+/workspaces/dotnet/bin/Release/netcoreapp3.1/publish/dotnet.pdb
