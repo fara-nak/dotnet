@@ -60,7 +60,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[3.1.14, 3.1.14]"
+            "version": "[3.1.18, 3.1.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/dotnet/5.0.202/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/dotnet/5.0.400/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
