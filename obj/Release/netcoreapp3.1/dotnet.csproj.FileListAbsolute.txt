@@ -6,7 +6,6 @@
 /workspaces/dotnet/bin/Release/netcoreapp3.1/dotnet.runtimeconfig.dev.json
 /workspaces/dotnet/bin/Release/netcoreapp3.1/dotnet.dll
 /workspaces/dotnet/bin/Release/netcoreapp3.1/dotnet.pdb
-/workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.csprojAssemblyReference.cache
 /workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.AssemblyInfoInputs.cache
 /workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.AssemblyInfo.cs
 /workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.csproj.CoreCompileInputs.cache
@@ -18,3 +17,5 @@
 /workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.dll
 /workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.pdb
 /workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.genruntimeconfig.cache
+/workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.csproj.AssemblyReference.cache
+/workspaces/dotnet/obj/Release/netcoreapp3.1/dotnet.GeneratedMSBuildEditorConfig.editorconfig
