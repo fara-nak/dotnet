@@ -4,6 +4,7 @@ namespace dotnet
 {
     public class WeatherForecast
     {
+        // test this out
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
