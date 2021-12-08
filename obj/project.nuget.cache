@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MfrPlI0cdZZ9HBkwo0SJG2WDqBbyIhtIzpWeg6qii7F6FCEn0FqGVEQi7060Zwco7a6zQljFwWcqrEp/5cTbCg==",
+  "dgSpecHash": "ytplpnuOh23eNhbOoVUOYps/pLFLGGRIXVjHgtAV0gYmtNuBF39X/I1u4r8IgUuhSuz4OokZhahbld7bODXJoA==",
   "success": true,
   "projectFilePath": "/workspaces/dotnet/dotnet.csproj",
   "expectedPackageFiles": [
     "/var/nuget/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/var/nuget/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/var/nuget/microsoft.netcore.app.host.linux-x64/3.1.14/microsoft.netcore.app.host.linux-x64.3.1.14.nupkg.sha512"
+    "/var/nuget/microsoft.netcore.app.host.linux-x64/3.1.18/microsoft.netcore.app.host.linux-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
 }
